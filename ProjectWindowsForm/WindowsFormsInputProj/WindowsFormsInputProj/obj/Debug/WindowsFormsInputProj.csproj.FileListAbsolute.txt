@@ -1,0 +1,16 @@
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\bin\Debug\WindowsFormsInputProj.exe
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\bin\Debug\WindowsFormsInputProj.pdb
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.Form1.resources
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.Properties.Resources.resources
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.csproj.GenerateResource.Cache
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.exe
+C:\Users\allan\AppData\Local\Temporary Projects\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.pdb
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.exe
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.pdb
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\bin\Debug\WindowsFormsInputProj.exe
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\bin\Debug\WindowsFormsInputProj.pdb
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.Form1.resources
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.Properties.Resources.resources
+C:\Users\allan\OneDrive\Desktop\project\Project\ProjectWindowsForm\WindowsFormsInputProj\WindowsFormsInputProj\obj\Debug\WindowsFormsInputProj.csproj.GenerateResource.Cache
